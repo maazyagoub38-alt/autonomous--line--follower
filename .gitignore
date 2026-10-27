@@ -1,0 +1,7 @@
+# Arduino IDE / editor
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+.vscode/
+.idea/
